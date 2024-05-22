@@ -1,0 +1,13 @@
+/*
+- Usar CSS interno, externo e inline
+- Apenas usar type selectors
+- S[o usar keywords pra cores ex: "blue"
+*/
+
+div {
+    background-color: red;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
